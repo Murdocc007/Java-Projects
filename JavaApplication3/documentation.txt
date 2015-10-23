@@ -1,0 +1,17 @@
+How to insert entry 
+
+1. the firstname+middleinitial+lastintitail should be unique
+
+How to delete entry
+
+1. Click on any entry you want to delete
+2. Click on delete button to delete any entry
+
+
+How to edit entry
+1. Double click on any entry you want to delete
+2. After making the changes, except in the firstname,middle initial and last name, click on the edit button
+
+
+
+
